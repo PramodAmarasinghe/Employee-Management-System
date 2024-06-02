@@ -9,6 +9,7 @@
 4. [Project Structure](#project-structure)
 5. [Installation](#installation)
 6. [Usage](#usage)
+7. [Screenshots](#screenshots)
 
 ## Project Overview
 
