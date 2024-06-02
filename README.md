@@ -30,6 +30,7 @@ The Employee Management System is a Java-based application designed to manage em
 - Java Swing (for GUI)
 - JDBC (for database connectivity)
 - Eclipse IDE
+- SQL
 
 ## Project Structure
 
@@ -77,11 +78,8 @@ Employee_Management_System/
 ## Installation
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/Employee_Management_System.git
-    ```
 2. Open the project in your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse).
-3. Set up your database and configure the database connection settings in `Database.java`.
+3. Set up your database and configure the database connection (employee.sql).
 4. Build and run the project.
 
 ## Usage
