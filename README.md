@@ -90,4 +90,27 @@ Employee_Management_System/
 - Use the login screen to log in as an admin or employee.
 - Navigate through the application to manage employee details, attendance, leave requests, and other functionalities.
 
+## Screenshots
+
+![1](https://github.com/PramodAmarasinghe/Employee-Management-System/assets/171472506/8ef7e52d-ccc2-4a85-b207-ad78c38e80aa)
+
+![2](https://github.com/PramodAmarasinghe/Employee-Management-System/assets/171472506/5aa50dd0-1ebd-4dca-bc70-9263e0f7fd90)
+
+![3](https://github.com/PramodAmarasinghe/Employee-Management-System/assets/171472506/05731d70-eaa5-4585-9729-b2b07df22573)
+
+![4](https://github.com/PramodAmarasinghe/Employee-Management-System/assets/171472506/5dfad9cd-2450-4d1a-a8e7-6125ba51c7cb)
+
+![5](https://github.com/PramodAmarasinghe/Employee-Management-System/assets/171472506/09967669-3ff4-4478-9d8e-3cb6c8d0ece6)
+
+![11](https://github.com/PramodAmarasinghe/Employee-Management-System/assets/171472506/419d3903-1bb1-4f8a-b956-77d6c876faf7)
+
+![7](https://github.com/PramodAmarasinghe/Employee-Management-System/assets/171472506/34be9f4d-48c6-486f-a9ac-3795dc278771)
+
+![8](https://github.com/PramodAmarasinghe/Employee-Management-System/assets/171472506/b151263c-ffa0-4051-ae98-217fab06e46f)
+
+![9](https://github.com/PramodAmarasinghe/Employee-Management-System/assets/171472506/3c3e2cd8-a7e7-46f6-a964-1b904886863a)
+
+![10](https://github.com/PramodAmarasinghe/Employee-Management-System/assets/171472506/8a91d18f-b2eb-400b-a527-198d6cb262fb)
+
+
 
